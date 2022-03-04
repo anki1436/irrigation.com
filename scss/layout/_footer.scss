@@ -3,7 +3,8 @@
   color: $white-color;
   position: relative;
   padding: 30px 0 38px 0;
-  ::before {
+  &:before{
+    content: "";
     position: absolute;
     top: -63px;
     left: 0;
