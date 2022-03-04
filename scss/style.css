@@ -1187,6 +1187,18 @@ header .container .link-list .small-font a {
           justify-content: space-between;
 }
 
+.contact__follow-icon a svg {
+  width: 20px;
+  color: white;
+  fill: white;
+}
+
+.contact__follow-icon a img {
+  width: 20px;
+  color: white;
+  fill: white;
+}
+
 .container {
   width: 100%;
   max-width: 1125px;
